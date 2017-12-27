@@ -1,0 +1,41 @@
+body.one
+{
+    background-image: url("../image/housepage.jpg");
+	background-repeat: no-repeat;	
+	background-size: 100%;
+	background-attachment: fixed;	
+}
+
+body.two
+{
+    background-image: url("../image/bewarepage.jpg");
+	background-repeat: no-repeat;	
+	background-size: 100%;
+	background-attachment: fixed;	
+}
+
+body.three
+{
+    background-image: url('../image/attractionspage.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;	
+	background-attachment: fixed;
+}
+
+body.four
+{
+    background-image: url('../image/ticketspage.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;	
+}
+
+h1
+{
+ display: inline;
+}
+
+a
+{
+ padding-left:50px;
+}	
